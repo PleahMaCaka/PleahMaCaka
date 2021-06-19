@@ -3,10 +3,9 @@
 > 준비되지 않은 인간은 돌아가거라..
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PleahMaCaka&show_icons=true&theme=dark)
-
 ![니가 몰알아 이 조랭이떡같은게](https://cdn.discordapp.com/attachments/537578464153174016/842100056940478494/21411ua361l143q9xw1q.png)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PleahMaCaka&show_icons=true&theme=dark)
 ## 🔒 LOCKED
 
 *SPACE!*
