@@ -80,7 +80,6 @@
         </p>
     </details>
 </details>
-<br>
 <details align="center">
     <summary> <samp>Status</samp></summary>
     <p align="center">
