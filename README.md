@@ -47,11 +47,11 @@
             <br>
 	        <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/>
             <br>
-            <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+            <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
             <br>
-            <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>   
+            <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>   
             <br>
-            <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>            
+            <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>            
             <br>
             ╰╼|═══════════════|╾╯
             <br>
