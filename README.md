@@ -1,8 +1,9 @@
 
-# > 🚨 이 앞은 조랭이떡⎛⎝![히히 난 조랭이](https://cdn.discordapp.com/emojis/768100761812205579.png?v=1)⎠⎞같은 소스들이 난무합니다.
 <h3 align="center">Hi Packet👋</h3>
 <p align="center"><br>
     <samp>
+        <b>⎛⎝<img src="https://cdn.discordapp.com/emojis/768100761812205579.png?v=1">⎠⎞</b>
+        <br>
         「 <b>HIGH SCHOOL STUDENT | NOVICE DEVELOPER</b> 」<br>
     </samp>
 <details align="center">
@@ -92,7 +93,7 @@
         <b>></b> <a href="https://github.com/PleahMaCaka/PleahMaCaka/blob/main/README.md">GO TO REF </a><b><</b>
     </p>
 </samp>
-  
+
 <!--
 https://github.com/Ileriayo/markdown-badges
 https://github.com/anuraghazra/github-readme-stats
