@@ -90,7 +90,7 @@
 </details>
 <samp>
     <p align="center">
-        <b>></b> <a href="https://github.com/PleahMaCaka/PleahMaCaka/blob/main/README.md">GO TO REF </a><b><</b>
+        <b>></b> <a href="https://github.com/PleahMaCaka/PleahMaCaka/blob/main/README.md">GO TO REPO </a><b><</b>
     </p>
 </samp>
 
