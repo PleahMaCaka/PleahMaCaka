@@ -1,3 +1,4 @@
+
 <h3 align="center">Hi Packet👋</h3>
 <p align="center"><br>
     <samp>
@@ -16,6 +17,10 @@
         <b>></b> <a href="https://PleahMaCaka.github.io/">GO TO GITHUB.IO </a><b><</b>
     </p>
 </samp>
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-2/352357858110734339.png" alt="DiscordBanner"/>
+</p>
 
 <!--
 https://github.com/Ileriayo/markdown-badges
