@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=deno,nodejs,js,ts,py,java,kotlin,gradle,c,cpp,linux,bash,arduino,vite,webpack,html,css,electron,react,redux,tailwind,express,fastapi,git,github,idea,md,stackoverflow,misskey,twitter,mongodb,prisma,supabase,unity,unreal&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=deno,nodejs,js,ts,py,java,kotlin,gradle,c,cpp,linux,bash,arduino,vite,webpack,html,css,electron,react,redux,tailwind,express,fastapi,git,github,idea,md,stackoverflow,misskey,twitter,mongodb,prisma,supabase,unity,unreal,discord,bots&theme=dark" alt="Skills"/>
 <p>
 <!--
 https://github.com/Ileriayo/markdown-badges
