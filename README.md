@@ -20,7 +20,7 @@
 </details>
 <samp>
     <p align="center">
-        <b>></b> <a href="https://PleahMaCaka.github.io/">GO TO GITHUB.IO </a><b><</b>
+        <b>></b> <a href="https://discord.gg/KMEru5ypnp">Chat with me in the Discord </a><b><</b>
     </p>
 </samp>
 
