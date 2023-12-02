@@ -29,7 +29,7 @@
 <!-- Join Private Guild -->
 <samp>
   <p align="center">
-    <b>></b> <a href="https://discord.gg/KMEru5ypnp">Chat with me in the Discord</a><b><</b>
+    <b>></b> <a href="https://discord.gg/KMEru5ypnp">Chat with me in the Discord</a> <b><</b>
   </p>
 </samp>
 
