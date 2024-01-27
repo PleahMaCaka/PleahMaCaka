@@ -17,12 +17,14 @@
 </p>
 
 <!-- Github Matrix -->
+
 <details align="center">
   <summary> <samp>MORE INFO</samp></summary>
     <p align="center">
-
+        Sometimes there is also a necessary void.
+<!--
 ![Metrics](https://metrics.lecoq.io/PleahMaCaka?template=classic&base.metadata=0&isocalendar=1&languages=1&stars=1&people=1&followup=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FSeoul)
-
+-->
   </p>
 </details>
 
