@@ -12,7 +12,7 @@
   <samp>
     <b>⎛⎝<img src="https://cdn.discordapp.com/emojis/768100761812205579.png?v=1">⎠⎞</b>
     <br>
-    「 <b>COLLEGE STUDENT | NOVICE DEVELOPER</b> 」<br>
+    「 <b>Lv. UNIVERSITY | NOVICE DEVELOPER</b> 」<br>
   </samp>
 </p>
 
