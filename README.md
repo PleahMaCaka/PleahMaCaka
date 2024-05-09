@@ -42,24 +42,12 @@
 
 <!-- Skill Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,kotlin,rust,svelte,tauri,nextjs,nestjs,docker,linux&theme=dark"/>
   <i>I use arch btw</i>
   <br/>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,githubactions,electron,react,redux,electron,html,css,tailwind,vercel,vite,webpack,gradle,c,cpp,bash,arduino,styledcomponents,express,fastapi,ktor,stackoverflow,misskey,prisma,mongodb,discord,bots&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts,py,kotlin,rust,svelte,tauri,nextjs,tailwind,vercel,docker,linux&theme=dark"/>
+  <br/>
+<!--   <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,githubactions,electron,html,css,vite,webpack,c,cpp,arduino,fastapi,stackoverflow,misskey,prisma,discord,bots&theme=dark"/> -->
 </p>
-
-<!-- Skill Icons -->
-<!--
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,py,kotlin,rust,svelte,tauri,nextjs,nestjs,docker,idea,md"/>
-    <br/>
-    <details align="center">
-      <summary> <samp>Show all stacks</samp></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=deno,nodejs,js,ts,py,kotlin,gradle,c,cpp,rust,linux,bash,arduino,vite,webpack,html,css,electron,svelte,tauri,react,redux,nextjs,vercel,tailwind,styledcomponents,express,nestjs,fastapi,ktor,git,github,githubactions,idea,vscode,md,stackoverflow,misskey,mongodb,prisma,sqlite,mongodb,docker,discord,bots"/>
-    </details>
-</p>
--->
 
 <!--
 https://github.com/Ileriayo/markdown-badges
