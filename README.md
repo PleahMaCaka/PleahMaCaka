@@ -44,7 +44,7 @@
 <p align="center">
   <i>I use arch btw</i>
   <br/>
-  <img src="https://skillicons.dev/icons?i=ts,py,kotlin,rust,svelte,tauri,nextjs,tailwind,vercel,docker,linux&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts,py,kotlin,arch,svelte,tauri,supabase,tailwind,vercel,docker&theme=dark"/>
   <br/>
 <!--   <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,githubactions,electron,html,css,vite,webpack,c,cpp,arduino,fastapi,stackoverflow,misskey,prisma,discord,bots&theme=dark"/> -->
 </p>
